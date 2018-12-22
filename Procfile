@@ -1,1 +1,1 @@
-worker: python radhok.py
+worker: python master.py
